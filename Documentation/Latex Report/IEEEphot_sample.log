@@ -1,0 +1,505 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2019.2.13)  15 FEB 2019 02:43
+entering extended mode
+**IEEEphot_sample.tex
+("D:\GameDev\Atom\Naive_Pixel\Assignment Wrappers\IEEEphot\IEEEphot_sample.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("D:\GameDev\Atom\Naive_Pixel\Assignment Wrappers\IEEEphot\IEEEphot.cls"
+Document Class: IEEEphot 2009/06/23 V1.2
+-- See the "IEEEphot_HOWTO" manual for usage information.
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 384.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+-- Using 8.25in x 10.75in (IEEE Photonics PaperSize) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <5> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <5> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <5> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <5> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <7> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <7> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <7> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <8> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <8> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <9> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <9> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <12> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <12> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <17> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <17> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <17> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <20> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <20> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <20> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <18> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <18> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <18> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 742.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <18> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 742.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+\footheight=\dimen117
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen118
+\Gin@req@width=\dimen119
+))
+\c@theorem=\count92
+\c@lemma=\count93
+("D:\GameDev\Atom\Naive_Pixel\Assignment Wrappers\IEEEphot\IEEEphot_sample.aux"
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 26.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/it' in size <7> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <7> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 32--32
+[][]  
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 35.
+
+LaTeX Warning: Citation `Mizuuchi2002' on page 1 undefined on input line 44.
+
+
+LaTeX Warning: Citation `Mizuuchi2003' on page 1 undefined on input line 44.
+
+
+LaTeX Warning: Citation `Mizuuchi2003' on page 1 undefined on input line 46.
+
+
+LaTeX Warning: Citation `Mizuuchi2005' on page 1 undefined on input line 47.
+
+
+LaTeX Warning: Citation `Nakanishi2007' on page 1 undefined on input line 47.
+
+
+LaTeX Warning: Citation `Ott2006' on page 1 undefined on input line 47.
+
+
+LaTeX Warning: Citation `Mizuuchi2003' on page 1 undefined on input line 47.
+
+
+LaTeX Warning: Citation `Ott2006' on page 1 undefined on input line 47.
+
+
+Underfull \vbox (badness 1102) has occurred while \output is active []
+
+
+Overfull \vbox (7.25pt too high) has occurred while \output is active []
+
+[1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+
+LaTeX Warning: Citation `Or2006a' on page 2 undefined on input line 49.
+
+
+LaTeX Warning: Citation `Or2007' on page 2 undefined on input line 49.
+
+
+LaTeX Warning: Citation `Or2008' on page 2 undefined on input line 49.
+
+
+LaTeX Warning: Citation `Or2005a' on page 2 undefined on input line 49.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (7.25pt too high) has occurred while \output is active []
+
+[2
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] <mouse.pdf, id=15, 151.56625pt x 134.5025pt>
+File: mouse.pdf Graphic file (type pdf)
+<use mouse.pdf>
+Package pdftex.def Info: mouse.pdf used on input line 67.
+(pdftex.def)             Requested size: 360.0pt x 319.47543pt.
+File: mouse.pdf Graphic file (type pdf)
+<use mouse.pdf>
+Package pdftex.def Info: mouse.pdf used on input line 74.
+(pdftex.def)             Requested size: 252.0pt x 223.63321pt.
+Missing character: There is no ï in font phvr7t!
+Missing character: There is no ¿ in font phvr7t!
+Missing character: There is no ½ in font phvr7t!
+Missing character: There is no ï in font phvr7t!
+Missing character: There is no ¿ in font phvr7t!
+Missing character: There is no ½ in font phvr7t!
+Missing character: There is no ï in font phvr7t!
+Missing character: There is no ¿ in font phvr7t!
+Missing character: There is no ½ in font phvr7t!
+Missing character: There is no ï in font phvr7t!
+Missing character: There is no ¿ in font phvr7t!
+Missing character: There is no ½ in font phvr7t!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 81.
+Missing character: There is no ï in font phvr7t!
+Missing character: There is no ¿ in font phvr7t!
+Missing character: There is no ½ in font phvr7t!
+Missing character: There is no ï in font phvr7t!
+Missing character: There is no ¿ in font phvr7t!
+Missing character: There is no ½ in font phvr7t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (7.25pt too high) has occurred while \output is active []
+
+[3
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \vbox (7.25pt too high) has occurred while \output is active []
+
+[4
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored! <D:/GameDev/Atom/Naive_Pixel/Assignment Wrappers/IEEEp
+hot/mouse.pdf>]
+
+LaTeX Warning: Citation `Mizuuchi2002' on page 5 undefined on input line 111.
+
+
+LaTeX Warning: Citation `Mizuuchi2003' on page 5 undefined on input line 111.
+
+
+LaTeX Warning: Citation `Mizuuchi2003' on page 5 undefined on input line 111.
+
+
+LaTeX Warning: Citation `Mizuuchi2005' on page 5 undefined on input line 112.
+
+
+LaTeX Warning: Citation `Nakanishi2007' on page 5 undefined on input line 112.
+
+
+LaTeX Warning: Citation `Ott2006' on page 5 undefined on input line 114.
+
+
+Overfull \vbox (7.25pt too high) has occurred while \output is active []
+
+[5
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+
+LaTeX Warning: Citation `Or2006a' on page 6 undefined on input line 116.
+
+
+LaTeX Warning: Citation `Mizuuchi2007' on page 6 undefined on input line 116.
+
+
+LaTeX Warning: Citation `Or2005a' on page 6 undefined on input line 116.
+
+
+LaTeX Warning: Citation `Or2007' on page 6 undefined on input line 116.
+
+
+LaTeX Warning: Citation `Or2008' on page 6 undefined on input line 116.
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 148.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Overfull \vbox (7.25pt too high) has occurred while \output is active []
+
+[6
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \vbox (7.25pt too high) has occurred while \output is active []
+
+[7
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] ("D:\GameDev\Atom\Naive_Pixel\Assignment Wrappers\IEE
+Ephot\IEEEphot_sample.bbl")
+Overfull \vbox (7.25pt too high) has occurred while \output is active []
+
+[8
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] ("D:\GameDev\Atom\Naive_Pixel\Assignment Wrappers\IEE
+Ephot\IEEEphot_sample.aux")
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1664 strings out of 493921
+ 26357 string characters out of 3147282
+ 87542 words of memory out of 3000000
+ 4973 multiletter control sequences out of 15000+200000
+ 49791 words of font info for 79 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 34i,13n,21p,1326b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/c
+ourier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on IEEEphot_sample.pdf (8 pages, 183804 bytes).
+PDF statistics:
+ 107 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
